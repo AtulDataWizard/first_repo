@@ -1,3 +1,2 @@
 HI My name is Atul
 and I am learning machine algorithm
-and I have completed java dsa
